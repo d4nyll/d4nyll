@@ -1,7 +1,7 @@
 # 👋
 
 ## Select Publications
-
+- 📃 [Prompt management systems compared](https://nearform.com/digital-community/prompt-management-systems-compared/) (2025)
 - 📃 [JavaScript TypeErrors and Techniques to Prevent Them](https://www.meticulous.ai/blog/javascript-typeerrors-and-techniques-to-prevent-them) (2024)
 - 🏫 [Internal Developer Platform on AWS](https://www.manning.com/liveprojectseries/internal-developer-platform-ser) (2022)
 - 📃 [How To Deploy Load-Balanced Web Applications on DigitalOcean with CDK for Terraform and TypeScript](https://www.digitalocean.com/community/tutorials/how-to-deploy-load-balanced-web-applications-on-digitalocean-with-cdk-for-terraform-and-typescript) (2022)
